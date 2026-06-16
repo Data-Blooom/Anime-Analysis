@@ -194,11 +194,11 @@ The dashboard design is inspired by **Japanese Sakura Blossoms**.
 
 ## 📷 Dashboard Preview
 
-
-```markdown
-![Dashboard Preview](Anime-Analysis/OutPut
-/Anime_page-0001.jpg)
-```
+<p align="center">
+  <a href="Anime_page-0001.jpg">
+    <img src="Anime_page-0001.jpg" width="750">
+  </a>
+</p>
 
 ---
 
